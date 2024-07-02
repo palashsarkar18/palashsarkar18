@@ -10,7 +10,7 @@ As a Senior Software Engineer with extensive experience in software development.
 
 ## 🔧 Skills
 
-- **Programming & Frameworks**: C#, .NET, Java (Maven), Python (Django, Flask), JavaScript (Node.js, Express.js), PostgreSQL, Firebase, Google BigQuery, Ansible, Bucardo, Grafana.
+- **Programming & Frameworks**: C#, .NET, Java (Maven), Python (Django, Flask), JavaScript/TypeScript (Node.js, Express.js), React, PostgreSQL, Firebase, Google BigQuery, Ansible, Bucardo, Grafana, Jenkins.
 - **Cloud Services**: Google Cloud Platform, Amazon Web Services.
 - **Operating Systems**: Linux, Windows, macOS.
 
